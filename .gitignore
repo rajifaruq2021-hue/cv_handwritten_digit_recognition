@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+data/mnist_data.npz
+*.zip
+*.docx
+*.pdf
+.venv/
+env/

@@ -1,0 +1,3 @@
+Model,Architecture_Type,Parameters,Epochs,Optimizer,Training_Time_Sec,Train_Accuracy,Test_Accuracy,Test_Loss
+Chollet (2021) Modern ConvNet,Modern Deep CNN (ReLU + MaxPool + Dropout 0.5),34826,15,Adam (lr=0.001),929.69,0.9892,0.9911,0.026
+LeCun et al. (1989) Historical CNN,Historical 4-Layer (Tanh + Strided Conv + Dropout 0.25),10024,15,Adam (lr=0.001),171.38,0.9763,0.983,0.0559
