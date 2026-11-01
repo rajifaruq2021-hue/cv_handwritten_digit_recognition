@@ -4,7 +4,6 @@ __pycache__/
 *.pyd
 .ipynb_checkpoints/
 data/mnist_data.npz
-*.zip
 *.docx
 *.pdf
 .venv/
