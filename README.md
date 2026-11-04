@@ -93,3 +93,4 @@ Demonstrates real-time digit classification with probability confidence scores o
 - The historical LeCun et al. (1989) network achieves **98.30% test accuracy**, reaching 99.18% of the modern architecture's performance while requiring **71.2% fewer trainable parameters** (10,024 vs. 34,826).
 - Due to its lightweight parameter structure and strided convolutions, the historical model trains **5.4 times faster** per epoch than the modern network on CPU hardware.
 - Both models demonstrate excellent generalization with minimal overfitting, confirming the enduring efficacy of weight sharing and local receptive fields originally introduced in 1989.
+
